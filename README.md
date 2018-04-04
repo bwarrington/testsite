@@ -5,5 +5,5 @@ test website for git workshop
 1. test1
 2. test2
 
-*test3
-*test4
+* test3
+* test4
